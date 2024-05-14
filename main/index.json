@@ -1,0 +1,10 @@
+{
+  toc: [
+    {
+      "file": "content.md",
+      "summary": "Main file content",
+      "date": "10/5/2024",
+      "order": 100
+    }
+  ],
+}
