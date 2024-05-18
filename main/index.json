@@ -7,6 +7,14 @@
       "date": "10/5/2024",
       "image": "../img/keo.png",
       "order": 100
+    },
+    {
+      "file": "uudiem.md",
+      "summary": "Ưu điểm về Kèo",
+      "desc": "Ưu điểm cho người dùng",
+      "date": "10/5/2024",
+      "image": "../img/keo.png",
+      "order": 101
     }
   ]
 }
