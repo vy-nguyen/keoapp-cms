@@ -1,4 +1,4 @@
-![Keo App](../img/keo.png)
+![Keo App](../img/thit.jpg)
 # CÁCH BẢO QUẢN CÁC LOẠI THỊT TRONG TỦ LẠNH
 
 Ngày nay người nội trợ có thể dùng tủ lạnh để bảo quản thịt một cách đơn giản mà hiệu quả, nhưng thịt nên được bảo quản như thế nào và bảo quản trong bao lâu?
