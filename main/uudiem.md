@@ -39,3 +39,4 @@ Với App:
 - _Chuyên mua bán, đủ các chức năng để rao hàng_
 - _Lưu giữ thông tin khách hàng quen_
 - _Rao hàng theo cụm dân cư_
+
