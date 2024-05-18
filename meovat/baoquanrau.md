@@ -1,3 +1,4 @@
+![Keo App](../img/rau.png)
 # CÁCH BẢO QUẢN RAU CỦ TRONG TỦ LẠNH
 
 Cất giữ rau củ tủ lạnh là phương pháp nhiều gia đình áp dụng nhưng khó giữ tươi, bỏ ngay 8 mẹo bảo quản rau củ trong tủ lạnh không bị nát, cả tuần vẫn tươi như mới.
