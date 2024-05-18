@@ -34,6 +34,7 @@ Với App Kèo, do được thiết kế để phục vụ việc bán hàng, n�
 Bên cạnh đó, với phương châm: Kết Nhu cầu – Tạo Niềm Tin - Lưu Uy tín, App Kèo sẽ sàng lọc thông tin người bán, người cung cấp dịch vụ, cũng như chất lượng dịch vụ được rao; để cố gắng tạo và giữ gìn môi trường mua bán lành mạnh nhất.
 
 Với App:
+
 -_Kinh doanh ổn định, không phụ thuộc_
 -_Chuyên mua bán, đủ các chức năng để rao hàng_
 -_Lưu giữ thông tin khách hàng quen_
