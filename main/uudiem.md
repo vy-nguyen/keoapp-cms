@@ -35,7 +35,7 @@ Bên cạnh đó, với phương châm: Kết Nhu cầu – Tạo Niềm Tin - L
 
 Với App:
 
--_Kinh doanh ổn định, không phụ thuộc_
--_Chuyên mua bán, đủ các chức năng để rao hàng_
--_Lưu giữ thông tin khách hàng quen_
--_
+- _Kinh doanh ổn định, không phụ thuộc_
+- _Chuyên mua bán, đủ các chức năng để rao hàng_
+- _Lưu giữ thông tin khách hàng quen_
+- _Rao hàng theo cụm dân cư_
