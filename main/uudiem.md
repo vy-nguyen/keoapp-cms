@@ -40,3 +40,22 @@ Với App, người bán hàng qua các mạng xã hội sẽ:
 - _Lưu giữ thông tin khách hàng quen_
 - _Rao hàng theo cụm dân cư_
 
+## Đối với những người không mua, không bán nhưng có khả năng làm chủ việc mua bán:
+
+Trên thực tế mua bán, ngoài những người cung cấp dịch vụ, người bán lẻ, ngoài những người bán hàng qua các mạng xã hội vẫn còn một nhóm nhỏ những người không mua, không bán, không cung cấp gì nhưng họ có quan hệ rộng, có uy tín, có thông tin rộng khắp trong những cộng đồng nhất định và quan trọng hơn hết là họ có tinh thần vì cộng đồng, có khả năng gắn kết cộng đồng. Họ sẽ giải đáp cho mọi người cần về: Ai? Mua, bán gì? ở đâu? Loại nào? giá bao nhiêu? 
+
+Trước đây, với kho thông tin hiện có, với tinh thần và khả năng gắn kết cộng đồng chỉ mang lại cho những người này danh hiệu: Kẻ bao đồng, Người vác tù và hàng tổng.
+
+Ngày nay với chức năng Chủ chợ, App Kèo sẽ cung cấp cho những người này chức năng mời gọi những người mua bán quen, những địa chỉ mua bán đã được kiểm chứng, những nơi cung cấp dịch vụ uy tín đăng ký thông tin để tạo thành Chợ, thành Nhóm bán hàng riêng cho từng cụm dân cư. Kẻ bao đồng, Người vác tù và hàng tổng sẽ trở thành Chủ chợ.
+
+Chủ chợ sẽ là nơi quy tụ tất cả thông tin về nhu cầu mua bán của thành viên trong Chợ; Chủ chợ sẽ biết ai? ở đâu? cần gì? cần bao nhiêu? khi nào cần? 
+
+Quan trọng nhất là những nơi cần thông tin này sẽ phải thông qua Chủ chợ để có được cơ hội cung cấp nguồn hàng cho Chợ; Thông tin này sẽ không miễn phí.
+
+Về lâu dài, số lượng người mua bán trong mỗi khu vực sẽ không thể mãi tăng, nên số lượng Chợ và Chủ chợ trên App Kèo cho mỗi khu vực cũng không là vô hạn. Cơ hội sẽ không dành cho người đến sau; Trâu chậm uống nước đục. Vậy thôi.
+
+Tóm lại với APP, người không mua, không bán nhưng có khả năng làm chủ sẽ:
+- _Tự tạo Chợ riêng._
+- _Làm chủ thông tin về nguồn hàng._
+- _Không mua bán nhưng có thu nhập từ mua bán._
+
