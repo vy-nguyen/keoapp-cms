@@ -58,4 +58,17 @@ Tóm lại với APP, người không mua, không bán nhưng có khả năng l�
 - _Tự tạo Chợ riêng._
 - _Làm chủ thông tin về nguồn hàng._
 - _Không mua bán nhưng có thu nhập từ mua bán._
+## Đối với những người mua hàng, người dùng dịch vụ:
+Đối tượng cuối của các hoạt động mua bán, cung cấp dịch vụ chính là người mua hàng, người dùng dịch vụ, đây cũng là đối tượng chính của App-keo.
+
+Với App-Keo, người mua hàng, người dùng dịch vụ sẽ là thượng đế khi có thể: được rao tận giường, giao tận nhà, bán tận tay… bởi chính những người bán hàng quen biết như Quán ông Năm đầu hẻm, cửa hàng bà Ba, dịch vụ của thằng Bảy .v.v.v.
+
+App- Keo cung cấp chức năng để Khách hàng có thể chủ động đặt mua, đặt dịch vụ bằng điện thoại nhưng vẫn không quá lo về chất lượng vì ngoài việc có thể mắng vốn khi không ưng; nhận xét khi không hài lòng thì các gian hàng, các dịch vụ trên App đã được lựa chọn lựa từ đầu cũng như sàng lọc suốt quá trình mua bán qua các chỉ số uy tín từ khách hàng. Đối với khách mới thì vẫn có thể lựa chọn để mua được hàng tốt, dùng được dịch vụ chất lượng qua việc tham khảo chỉ số uy tín của các nơi cung cấp.
+
+Bên cạnh đó, do không bị áp lực về mua thông tin, rao quảng cáo nên App-keo sẽ từng bước tìm và cung cấp các thông tin về thị trường, thông tin phục vụ đời sống từ những nguồn tin cậy, từ những người có kiến thức để ngoài việc mua hàng, dùng dịch vụ thì khách hàng có thêm nguồn thông tin đáng tin giữa một rừng thông tin thượng vàng hạ cám.
+
+Như vậy với APP, người mua hàng, người dùng dịch vụ sẽ:
+- _Trở lại thành thượng đế khi mua hàng qua mạng._
+- _Tìm được hàng đúng giá trị, dùng dịch vụ đúng chất lượng._
+- _Có được thông tin tin cậy về thị trường._
 
