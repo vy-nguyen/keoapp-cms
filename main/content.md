@@ -62,3 +62,10 @@ Nhóm tui mở mã nguồn (opensource) cho những ai có đam mê IT nếu có
 
 Cảm ơn sự quan tâm của các bạn.
 
+Hãy dùng phone scan mã QR download app cho Android hoặc iPhone
+
+### Android QR
+[![Android QR code](../img/android_link_QR.png)](https://play.google.com/apps/internaltest/4701178361232225232)
+
+### iPhone QR
+[![iPhone QR code](../img/ios_link_QR.png)](https://testflight.apple.com/join/l7vmPdQO)
