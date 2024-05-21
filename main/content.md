@@ -18,9 +18,9 @@ Tuy nhiên với thời gian, các thượng đế cũng đã không ít lần r
 
 Một số người bán bán hàng qua mạng đã lợi dụng việc không có địa chỉ thông tin cụ thể nên rao một đằng, bán một nẻo, với hình ảnh sáng ngời nhưng thông tin nửa vời.
 
-Một số khác thì tay không bắt giặc, chỉ tìm thông tin mặt hàng rồi rao báo, không cần biết chất lượng ra sao, nguồn gốc thế nào, chỉ biết gom đủ số lượng đặt hàng để hưởng giá sỉ thì đặt hàng và bán chuyển tiếp đi; không đủ số lượng thì bỏ đơn và không lo mất uy tín vì không ai biết mình là ông Năm, bà Bảy ở chốn nào.
+Một số khác thì tay không bắt giặc, chỉ tìm thông tin mặt hàng rồi rao bán, không cần biết chất lượng ra sao, nguồn gốc thế nào, chỉ biết gom đủ số lượng đặt hàng để hưởng giá sỉ thì đặt hàng và bán chuyển tiếp đi; không đủ số lượng thì bỏ đơn và không lo mất uy tín vì không ai biết mình là ông Năm, bà Bảy ở chốn nào.
 
-Bên cạnh đó, sự ra đời của một số Trang thương mại phục vụ việc đặt hàng qua mạng đã tạo công cụ hỗ trợ cho việc rao bán qua mạng trở thành dễ dàng, dễ kiếm thêm thu nhập nhưng người bán không phải chịu trách nhiệm về chất lượng hàng hóa; Riêng các trang này không chịu hoặc chỉ chịu phần nhỏ trách nhiệm về chất lượng các việc mua bán này.
+Bên cạnh đó, sự ra đời của một số trang thương mại phục vụ việc đặt hàng qua mạng đã tạo công cụ hỗ trợ cho việc rao bán qua mạng trở thành dễ dàng, dễ kiếm thêm thu nhập nhưng người bán không phải chịu trách nhiệm về chất lượng hàng hóa; Riêng các trang này không chịu hoặc chỉ chịu phần nhỏ trách nhiệm về chất lượng các việc mua bán này.
 
 Do đó, niềm tin khi mua bán qua mạng ngày càng giảm sút, hình thành tâm lý chất lượng  mua hàng qua mạng là hên xui. Điều này làm vạ lây cho những người mua ngay bán thật trên mạng và các người bán hàng nhỏ lẻ từ các chợ truyền thống phải thường xuyên gặp cảnh “chợ chiều” từ sáng sớm ngay khi mới bày hàng.
 
@@ -28,9 +28,9 @@ Do đó, niềm tin khi mua bán qua mạng ngày càng giảm sút, hình thàn
 
 Còn người bán nhỏ lẻ thì chỉ còn cách gồng mình chịu trận, cầm cự qua ngày, sống chung với lũ khi đưa thông tin lên bán trong các trang mạng.
 
-Trong mua bán truyền thống, người bán có nơi ở, có chổ bán, có thông tin cụ thể nên người mua có thể: mua chổ quen; so sánh, lựa giá, chọn chất lượng, dặn giữ hàng…; Còn người bán gắng giữ khách, giữ uy tín qua mỗi buổi bán, mỗi món hàng đã bán. Khổ nỗi, uy tín của người bán gắng tạo lập trong nhiều năm chỉ có người mua biết, truyền miệng cho nhau và cũng chỉ có thể lưu giữ trong suy nghĩ của những người mua.
+Trong mua bán truyền thống, người bán có nơi ở, có chổ bán, có thông tin cụ thể nên người mua có thể: mua chổ quen; so sánh, lựa giá, chọn chất lượng, dặn giữ hàng…; Còn người bán gắng giữ khách, giữ uy tín qua mỗi buổi bán, mỗi món hàng đã bán. Khổ nỗi, uy tín của người bán gắng tạo lập trong nhiều năm thì chỉ có người mua biết, truyền miệng cho nhau và cũng chỉ có thể lưu giữ trong suy nghĩ của những người đã từng mua.
 
-Cùng với sự phát triển ồ ạt của hoạt động bán hàng thì các hoạt động dịch vụ cũng cố gắng ăn theo. Thông qua các mạng xã hội, các mạng truyền thông, người cung cấp dịch vụ thì tích cực rao tìm khách; người có nhu cầu dùng dịch vụ thì cập lực tìm người cung cấp. Nhưng khổ nỗi, các mạng xã hội chỉ gắn những người quen nhau, nên thường xuyên xảy ra cảnh: Lúc cần thì không gặp, Lúc gặp thì đã hết cần. Đó là chưa kể, đang thời ăn nên làm ra, rao bán xôm tụ thì bị các trang mạng xã hội khóa chức năng kinh doanh vì nhiều lý do. Vậy là công sức gây dựng đổ sông đổ biển.
+Cùng với sự phát triển ồ ạt của hoạt động bán hàng thì các hoạt động dịch vụ cũng cố gắng ăn theo. Thông qua các mạng xã hội, các mạng truyền thông, người cung cấp dịch vụ thì tích cực rao tìm khách; người có nhu cầu dùng dịch vụ thì cập lực tìm người cung cấp. Nhưng khổ nỗi, các mạng xã hội chỉ gắn những người quen nhau, nên thường xuyên xảy ra cảnh: Lúc cần thì không gặp, lúc gặp thì đã hết cần. Đó là chưa kể, đang thời ăn nên làm ra, rao bán xôm tụ thì bị các trang mạng xã hội khóa chức năng kinh doanh, giảm tương tác vì nhiều lý do. Vậy là công sức gây dựng đổ sông đổ biển.
 
 ## Giới thiệp Kèo-app
 
@@ -40,7 +40,7 @@ Mục đích của Kèo-app là tạo sân chợ bình dân trên điện thoạ
 
 Vậy Kèo-app khác với sàn thương mại điện tử lớn như thế nào? Nôm na cho dễ hiểu, app của nhóm tui giống như cái chợ nhỏ của xóm tự phát trong hẻm so với siêu thị sang trọng to lớn ngoài đường. Bằng cái điện thoại đã cài Kèo-app, người bán người mua có thể biết nhau; người bán rao hàng, rao dịch vụ; người mua xem và đặt hàng trực tiếp, nếu không hài lòng có thể mắng vốn trực tiếp hoặc đưa phản hồi lên App.
 
-Kèo-app không cạnh tranh với các app thương mại điện tử về nhiều mặt, mà giá trị mà Kèo-app mang đến giới buôn bán nhỏ, bình dân chính là Lòng tin của khách hàng địa phương, chữ tín trong buôn bán và chữ tâm cho khách quen. Đây cũng chính là lý do mà chợ truyền thống vẫn còn hoạt động trước mọi áp lực về giá, về mẫu mã, thương hiệu và hàng hóa đa dạng của các chuỗi siêu thị lớn.
+Kèo-app không cạnh tranh với các app thương mại điện tử về nhiều mặt, mà giá trị mà Kèo-app mang đến giới buôn bán nhỏ, bình dân chính là Lòng tin của khách hàng địa phương, chữ Tín trong buôn bán và chữ Tâm cho khách quen. Đây cũng chính là lý do mà chợ truyền thống vẫn còn hoạt động trước mọi áp lực về giá, về mẫu mã, thương hiệu và hàng hóa đa dạng của các chuỗi siêu thị lớn.
 
 Tiêu chí hàng đầu của Kèo-app là thay các trang xã hội, lưu giữ những ghi nhận của khách hàng qua quá trình mua bán và cung cấp dịch vụ trên mạng Internet. Từ đó khách vãng lai có thể tham khảo để tìm được địa chỉ mới đáng tin cậy.
 
@@ -48,9 +48,9 @@ Nhóm tui tin rằng thước đo lường chính xác về sự thành công c�
 
 Ban đầu kèo-app có chức năng như trang vàng điện thoại (yellow page) lưu giữ thông tin của tiểu thương và dịch vụ, làm nhịp cầu kết nối giữa họ với khách quen. Lâu dài, uy tín của tiểu thương, dịch vụ và quyền riêng tư của khách hàng sẽ được bảo đảm bằng kỹ thuật của blockchain.
 
-Tiểu thương mở shop và nghề tự do mở dịch vụ với kèo-app là tạo sự hiện diện online, cập nhật tin tức với khách quen mà không sợ làm phiền lòng họ. Khách hàng dùng kèo-app ngoài là nơi tìm shop, dịch vụ ngay tại địa phương, còn là nơi thu thập kiến thức bổ ích trong cộng đồng.
+Khi tiểu thương mở shop, lao động tự do mở dịch vụ với kèo-app là họ đã tạo sự hiện diện trên mạng, cập nhật tin tức với khách quen mà không sợ làm phiền lòng họ. Khách hàng dùng kèo-app ngoài là nơi tìm shop, dịch vụ ngay tại địa phương, còn là nơi thu thập kiến thức bổ ích trong cộng đồng.
 
-Kèo-app không thu phí thường trực từ shop và dịch vụ.  Tương lai, thì mô hình thương mại của nhóm tui là kết nối nhu cầu và nguồn cung bằng chi phí hiệu quả nhứt hơn hăn mô hình quảng cáo, vừa để khách hàng nhận được sự cạnh tranh lành mạnh của chủ shop và dịch vụ, những người lấy chữ tín làm đầu, dùng chữ tâm làm trọng.
+Kèo-app không thu phí thường trực từ shop và dịch vụ.  Tương lai, thì mô hình thương mại của nhóm tui là kết nối nhu cầu và nguồn cung bằng chi phí hiệu quả nhứt hơn hẳn mô hình quảng cáo, vừa để khách hàng nhận được sự cạnh tranh lành mạnh của chủ shop và dịch vụ, những người lấy chữ Tín làm đầu, dùng chữ Tâm làm trọng.
 
 ## Bạn giúp được gì?
 
@@ -58,7 +58,7 @@ Nếu bạn đọc đến đây, Nhóm tui cảm ơn sự quan tâm của quý b
 
 Trước mắt, nhóm tui cần chừng 30 địa chỉ email của bạn bè thân hữu giúp cài App trong vòng 1 tháng; Các bạn bè thân hữu có thể dùng thử và góp ý phản hồi. Sau khi chạy thử nghiệm, Kèo-app mới có thể ra mắt công chúng, triển khai ở một địa phương nào đó.
 
-Nhóm tui mở mã nguồn (opensource) cho những ai có đam mê IT nếu có ý tưởng hay và có như cầu thì được toàn quyền sử dụng, không bị ràng buộc, không bắt đầu thực hiện ý tưởng bằng con số 0. Đóng góp của bạn cho mã nguồn sẽ giúp nhóm tui và cả cộng đồng.
+Nhóm tui mở mã nguồn (opensource) cho những ai có đam mê IT nếu có ý tưởng hay và có như cầu thì được toàn quyền sử dụng, không bị ràng buộc, không phải bắt đầu thực hiện ý tưởng bằng con số 0. Đóng góp của bạn cho mã nguồn sẽ giúp nhóm tui và cả cộng đồng.
 
 Cảm ơn sự quan tâm của các bạn.
 
