@@ -1,5 +1,5 @@
 ![Keo App](../img/keo.png)
-# APP KÈO MANG LẠI NHỮNG TIỆN ÍCH GÌ?
+# APP KÈO MANG LẠI NHỮNG TIỆN ÍCH GÌ? CHO AI?
 ## Đối với những người cung cấp dịch vụ, người bán lẻ 
 Từ rất lâu, những người người bán lẻ tại các chợ truyền thống, các hẻm, khu dân cư, thường bán trên sạp chợ, quầy  hàng cụ thể; sẽ cung cấp các dịch vụ, mở bán vào những ngày, giờ cụ thể. Khách hàng sẽ tự tìm đến để mua hàng, tự tìm đến nhờ cung cấp dịch vụ.
 
@@ -48,9 +48,9 @@ Trước đây, với kho thông tin hiện có, với tinh thần và khả nă
 
 Ngày nay với chức năng Chủ chợ, App Kèo sẽ cung cấp cho những người này chức năng mời gọi những người mua bán quen, những địa chỉ mua bán đã được kiểm chứng, những nơi cung cấp dịch vụ uy tín đăng ký thông tin để tạo thành Chợ, thành Nhóm bán hàng riêng cho từng cụm dân cư. Kẻ bao đồng, Người vác tù và hàng tổng sẽ trở thành Chủ chợ.
 
-Chủ chợ sẽ là nơi quy tụ tất cả thông tin về nhu cầu mua bán của thành viên trong Chợ; Chủ chợ sẽ biết ai? ở đâu? cần gì? cần bao nhiêu? khi nào cần? 
+Chủ chợ sẽ là nơi quy tụ tất cả thông tin về nhu cầu mua bán của thành viên trong Chợ; Chủ chợ sẽ biết: Ai? Ở đâu? Cần gì? Cần bao nhiêu? Khi nào cần? 
 
-Quan trọng nhất là những nơi cần thông tin này sẽ phải thông qua Chủ chợ để có được cơ hội cung cấp nguồn hàng cho Chợ; Thông tin này sẽ không miễn phí.
+Những nơi cần thông tin này sẽ phải thông qua Chủ chợ để có được cơ hội cung cấp nguồn hàng cho Chợ; Quan trọng nhất là: Thông tin này sẽ không miễn phí.
 
 Về lâu dài, số lượng người mua bán trong mỗi khu vực sẽ không thể mãi tăng, nên số lượng Chợ và Chủ chợ trên App Kèo cho mỗi khu vực cũng không là vô hạn. Cơ hội sẽ không dành cho người đến sau; Trâu chậm uống nước đục. Vậy thôi.
 
