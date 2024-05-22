@@ -9,6 +9,8 @@ Với APP Kèo, người bán hàng riêng lẻ hay bán trong một Nhóm cụ 
 
 Khi dùng App Kèo, người bán lẻ, người cung cấp dịch vụ (gọi chung là người bán) chỉ cần có một số điện thoại, một điện thoại thông minh giá bình dân. Người bán sẽ mở một quầy bán hàng “Shop” trên App với tên do mình đặt cùng với thông tin như địa chỉ, số điện thoại của quầy bán hàng. Các thông tin này rất quan trọng, nó sẽ giúp người bán hàng giới thiệu cho người mua biết được và phân biệt được với các quầy hàng khác; đồng thời lưu giữ các lần bán hàng cũng nhưng các thông tin về khách hàng thường mua; thông tin này để người bán hàng thuận lợi khi quản lý đồng thời cũng tạo niềm tin, giúp cho người mua mới có thể tham khảo.
 
+![Keo App](../img/keo.jpg)
+
 Sau khi đã có quầy bán hàng, người bán sẽ đưa các thông tin về các món hàng của mình: hình ảnh, giá bán, hình thức giao hàng .v.v. Đây là việc Rao kèo qua App
 
 Thông qua APP Kèo, người mua, người cần dịch vụ (gọi chung là người mua) sẽ: chọn, đặt hàng, đặt dịch vụ. Đây là việc Chọn Kèo qua App. Sau khi chọn tất cả mặt hàng cần thiết, người mua sẽ Đặt hàng. Khi này thông tin đặt hàng sẽ chuyển đến người bán. Người bán sẽ nhận được thông tin về mặt hàng, số lượng hàng, thông tin người mua, người có nhu cầu về dịch vụ để lên lịch giao hàng.
