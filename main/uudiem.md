@@ -19,8 +19,8 @@ Bên cạnh, bằng việc sử dụng App Kèo song song với việc bán theo
 
 Tóm lại, với APP, người cung cấp dịch vụ, người bán lẻ sẽ:
 - _Không cần và không phụ thuộc mặt bằng._
-- _Không lo mất khách hàng do đổi địa điểm_
-- _Không mất thông tin khách hàng khi đổi Nhóm bán_
+- _Không lo mất khách hàng do đổi địa điểm, đổi Nhóm bán_
+- _Được giới thiệu những nguồn hàng uy tín, giá tốt_
 - _Bán hàng mọi lúc, mọi nơi bằng điện thoại._
 - _Giới thiệu uy tín, thâm niên bán hàng_
 - _Dễ dùng, vừa bán tại chợ vừa bán đi nơi khác bằng điện thoại_
@@ -32,7 +32,7 @@ Tuy nhiên, các mạng xã hội cũng như các dịch vụ truyền thông đ
 
 Do đó, không ít trường hợp, khi chưa có khách hàng bán, chưa bán được nhiều hàng thì việc mua bán ngon lành, trôi chảy nhưng khi việc kinh doanh thuận lợi, nhiều khách quen, có được nhiều đơn hàng thì bị các công ty quản lý trang mạng đóng tài khoản hoặc giới hạn người xem. Công sức tạo dựng uy tín, lôi kéo khách hàng sẽ bị đổ sông đổ biển. Việc kinh doanh sẽ không thể mang tính ổn định lâu dài.
 
-Với App Kèo, do được thiết kế để phục vụ việc bán hàng, nên App có nhiều chức năng để rao hàng, lưu giữ các thông tin về mặt hàng, khách hàng, thâm niên uy tín bán hàng .v.v. Bên cạnh đó App Kèo hướng tới phục vụ cho việc mua bán, cung cấp dịch vụ cho các cụm dân cư nên sẽ ưu tiên đưa các thông tin về người bán, người sẽ mua trong các cụm dân cư nhất định; người bán, người mua có thể biết nhau, có thể trao đổi, phản hồi thông tin bằng các hình thức ngoài App như điện thoại, gặp mặt.v.v.
+Với App Kèo, do được thiết kế để phục vụ việc bán hàng, nên App có nhiều chức năng để rao hàng, lưu giữ các thông tin về mặt hàng, khách hàng, thâm niên uy tín bán hàng .v.v. Việc đổi Nhóm bán không làm ảnh hưởng đến việc bán hàng vì thông tin khách và thông tin hàng hóa được lưu giữ theo người bán. Bên cạnh đó App Kèo hướng tới phục vụ cho việc mua bán, cung cấp dịch vụ cho các cụm dân cư nên sẽ ưu tiên đưa các thông tin về người bán, người sẽ mua trong các cụm dân cư nhất định; người bán, người mua có thể biết nhau, có thể trao đổi, phản hồi thông tin bằng các hình thức ngoài App như điện thoại, gặp mặt.v.v. 
 
 Bên cạnh đó, với phương châm: Kết Nhu cầu – Tạo Niềm Tin - Lưu Uy tín, App Kèo sẽ sàng lọc thông tin người bán, người cung cấp dịch vụ, cũng như chất lượng dịch vụ được rao; để cố gắng tạo và giữ gìn môi trường mua bán lành mạnh nhất.
 
@@ -41,6 +41,8 @@ Với App, người bán hàng qua các mạng xã hội sẽ:
 - _Có môi trường kinh doanh ổn định, không phụ thuộc_
 - _Có công cụ chuyên mua chuyên bán, đủ các chức năng để rao hàng_
 - _Lưu giữ thông tin khách hàng quen_
+- _Được giới thiệu những nguồn hàng uy tín, giá tốt_
+- _Kinh doanh bình thường khi thay đổi Chợ, Nhóm bán hàng_ 
 - _Rao hàng theo cụm dân cư_
 
 ## Đối với những người không mua, không bán nhưng có khả năng làm chủ việc mua bán:
