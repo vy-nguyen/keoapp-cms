@@ -1,15 +1,13 @@
 ![Keo App](../img/keo.png)
 # APP KÈO MANG LẠI NHỮNG TIỆN ÍCH GÌ? CHO AI?
 ## Đối với những người cung cấp dịch vụ, người bán lẻ 
-Từ rất lâu, những người người bán lẻ tại các chợ truyền thống, các hẻm, khu dân cư, thường bán trên sạp chợ, quầy  hàng cụ thể; sẽ cung cấp các dịch vụ, mở bán vào những ngày, giờ cụ thể. Khách hàng sẽ tự tìm đến để mua hàng, tự tìm đến nhờ cung cấp dịch vụ.
+Từ rất lâu, những người người bán lẻ tại các chợ truyền thống, các hẻm, khu dân cư, thường bán trên sạp chợ, quầy  hàng; sẽ cung cấp các dịch vụ, mở bán vào những ngày, giờ cụ thể. Khách hàng sẽ tự tìm đến để mua hàng, tự tìm đến nhờ cung cấp dịch vụ.
 
-Với bán hàng truyền thống, khi người bán chuyển địa điểm do nhiều lý do như dời nhà, không thể tiếp tục thuê mặt bằng hoặc tạm nghỉ một thời gian thì vấn đề lớn nhất là giữ được các khách hàng quen nhưng điều này rất khó.
+Với bán hàng truyền thống, khi người bán chuyển địa điểm do nhiều lý do như dời nhà, không thuê được mặt bằng hoặc tạm nghỉ một thời gian thì vấn đề lớn nhất là giữ được các khách hàng quen nhưng điều này rất khó.
 
-Với APP Kèo, người bán hàng riêng lẻ hay bán trong một Nhóm cụ thể (tại một Chợ) vẫn có thể bán hàng bình thường khi đổi sang bán tại Nhóm khác vì các thông tin khách mua được lưu giữ theo người bán.  
+Với APP Kèo, người bán hàng riêng lẻ hay bán trong một Nhóm cụ thể (tại một Chợ) vẫn có thể bán hàng bình thường, không mất đi khách nào khi đổi sang bán tại Nhóm khác vì các thông tin khách mua được lưu giữ theo người bán.
 
 Khi dùng App Kèo, người bán lẻ, người cung cấp dịch vụ (gọi chung là người bán) chỉ cần có một số điện thoại, một điện thoại thông minh giá bình dân. Người bán sẽ mở một quầy bán hàng “Shop” trên App với tên do mình đặt cùng với thông tin như địa chỉ, số điện thoại của quầy bán hàng. Các thông tin này rất quan trọng, nó sẽ giúp người bán hàng giới thiệu cho người mua biết được và phân biệt được với các quầy hàng khác; đồng thời lưu giữ các lần bán hàng cũng nhưng các thông tin về khách hàng thường mua; thông tin này để người bán hàng thuận lợi khi quản lý đồng thời cũng tạo niềm tin, giúp cho người mua mới có thể tham khảo.
-
-![Keo App](../img/keo.jpg)
 
 Sau khi đã có quầy bán hàng, người bán sẽ đưa các thông tin về các món hàng của mình: hình ảnh, giá bán, hình thức giao hàng .v.v. Đây là việc Rao kèo qua App
 
@@ -29,10 +27,8 @@ Tóm lại, với APP, người cung cấp dịch vụ, người bán lẻ sẽ:
 - _Giới thiệu uy tín, thâm niên bán hàng_
 - _Dễ dùng, vừa bán tại chợ vừa bán đi nơi khác bằng điện thoại_
 
-
-
 ## Đối với những người bán hàng qua các mạng xã hội
-Thời gian gần đây, với nhu cầu tìm thêm thu nhập từ việc kinh doanh không mặt bằng, không bị động thời gian nên nhiều người đã tìm đến các mạng xã hội, các dịch vụ truyền thông. Chỉ cần tạo một tài khoản thì người bán đã có thể kinh doanh.
+Thời gian gần đây, với nhu cầu tìm thêm thu nhập từ việc kinh doanh không mặt bằng, không bị động thời gian nên nhiều người đã tìm đến các mạng xã hội, các dịch vụ truyền thông. Chỉ cần tạo một tài khoản thì người bán đã có thể mua bán.
 
 Tuy nhiên, các mạng xã hội cũng như các dịch vụ truyền thông được tạo ra với chức năng chính phục vụ các hoạt động truyền thông, các hoạt động thông tin cụ thể. Việc kinh doanh qua các mạng chỉ là hình thức ăn theo, kinh doanh ké. Các mạng truyền thông, các trang xã hội tạo ra không để phục vụ các hoạt động kinh doanh ké và các đơn vị quản lý cũng không tạo điều kiện hỗ trợ các hoạt động kinh doanh ké này.
 
@@ -53,11 +49,11 @@ Với App, người bán hàng qua các mạng xã hội sẽ:
 
 ## Đối với những người không mua, không bán nhưng có khả năng làm chủ việc mua bán:
 
-Trên thực tế mua bán, ngoài những người cung cấp dịch vụ, người bán lẻ, ngoài những người bán hàng qua các mạng xã hội vẫn còn một nhóm nhỏ những người không mua, không bán, không cung cấp gì nhưng rất quan trọng trong chũi bán - mua. Đó là những người có thông tin thị trường, có quan hệ rộng, có uy tín trong những cộng đồng nhất định và quan trọng hơn hết là họ có tinh thần vì cộng đồng, có khả năng gắn kết cộng đồng và thích làm ra tiền. Họ sẽ giải đáp cho mọi người cần về: Ai? Mua, bán gì? ở đâu? Loại nào? giá bao nhiêu? 
+Trên thực tế mua bán, ngoài những người cung cấp dịch vụ, người bán lẻ, ngoài những người bán hàng qua các mạng xã hội vẫn còn một nhóm nhỏ những người không mua, không bán, không cung cấp gì nhưng rất quan trọng trong chuỗi bán - mua. Đó là những người có thông tin thị trường, có quan hệ rộng, có uy tín trong những cộng đồng nhất định và quan trọng hơn hết là họ có tinh thần vì cộng đồng, có khả năng gắn kết cộng đồng và đam mê kiếm tiền. Họ sẽ giải đáp cho mọi người cần về: Ai? Mua, bán gì? ở đâu? Loại nào? giá bao nhiêu? 
 
 Trước đây, với kho thông tin hiện có, với tinh thần và khả năng gắn kết cộng đồng chỉ mang lại cho những người này danh hiệu: Kẻ bao đồng, Người vác tù và hàng tổng.
 
-Ngày nay với chức năng Chủ chợ, App Kèo sẽ cung cấp cho những người này chức năng mời gọi những người mua bán quen, những địa chỉ mua bán đã được kiểm chứng, những nơi cung cấp dịch vụ uy tín cùng tham gia App, đăng ký thông tin để tạo thành Chợ, thành Nhóm bán hàng riêng cho từng cụm dân cư. Kẻ bao đồng, Người vác tù và hàng tổng sẽ trở thành Chủ chợ.
+Ngày nay với chức năng Chủ chợ, App Kèo sẽ cung cấp cho những người này chức năng mời gọi những người mua bán quen, những địa chỉ mua bán đã được kiểm chứng, những nơi cung cấp dịch vụ uy tín cùng tham gia App, đăng ký thông tin để tạo thành Chợ, thành Nhóm bán hàng riêng cho từng cụm dân cư. Kẻ bao đồng, Người vác tù và hàng tổng ngày nào sẽ trở thành Chủ chợ.
 
 Chủ Chợ mời gọi thành viên mới vào bán tại Chợ, giữ các thành viên cũ tiếp tục gắn bó với Chợ với nhiều cách như: giới thiệu nguồn hàng rẻ, giới thiệu khách mua, khách dùng dịch vụ.v.v. 
 
@@ -65,17 +61,17 @@ Chủ chợ sẽ là nơi quy tụ tất cả thông tin về nhu cầu mua bán
 
 Chủ chợ sẽ quyết định cung cấp thông tin gì, cung cấp cho những ai vì **thông tin này sẽ không miễn phí**. 
 
-Người chấp nhận trả phí sẽ nhận được thông tin để giúp tăng cơ hội bán được hàng, cơ hội cung ứng được dịch vụ. 
+Người chấp nhận trả tiền để nhận được thông tin sẽ tăng cơ hội bán được hàng, tăng cơ hội cung ứng được dịch vụ. 
 
 Về lâu dài, số lượng người mua bán trong mỗi khu vực sẽ không thể mãi tăng, nên số lượng Chợ và Chủ chợ trên App Kèo cho mỗi khu vực cũng không là vô hạn. Cơ hội sẽ không dành cho người đến sau; Trâu chậm uống nước đục. Vậy thôi.
 
-Tóm lại với APP, người không mua, không bán nhưng có khả năng làm chủ sẽ:
+Tóm lại với APP, người không mua, không bán nhưng có khả năng làm Chủ sẽ:
 - _Tự tạo Chợ riêng._
-- _Phát triển Chợ với chính sách giữ uy tín_
-- _Có thu nhập từ thông tin về nguồn hàng, nguồn dịch vụ._
+- _Mở mang Chợ với chính sách tạo và giữ uy tín_
+- _Thu được tiền từ thông tin về nguồn hàng, nguồn dịch vụ._
 - _Không mua bán nhưng có thu nhập từ mua bán._
 ## Đối với những người mua hàng, người dùng dịch vụ:
-Đối tượng cuối của các hoạt động mua bán, cung cấp dịch vụ chính là người mua hàng, người dùng dịch vụ, đây cũng là đối tượng chính của App-keo, tất cả ưu điểm của App cuối cùng cũng nhằm phục vụ người mua hàng.
+Đối tượng cuối của các hoạt động mua bán, cung cấp dịch vụ chính là người mua hàng, người dùng dịch vụ. Đây cũng là đối tượng chính của App-keo, tất cả ưu điểm của App cuối cùng cũng nhằm phục vụ người mua hàng.
 
 Với App-Keo, người mua hàng, người dùng dịch vụ sẽ là thượng đế khi có thể: được rao tận giường, giao tận nhà, bán tận tay… bởi chính những người bán hàng quen biết như Quán ông Năm đầu hẻm, cửa hàng bà Ba, dịch vụ của thằng Bảy .v.v.v.
 
