@@ -15,6 +15,8 @@ Thông qua APP Kèo, người mua, người cần dịch vụ (gọi chung là n
 
 Như vậy với App Kèo, người bán không cần mặt bằng, sẽ không phụ thuộc vào mặt bằng;  Ngoài việc không tốn tiền thuê thì quan trọng hơn hết là không bị mất khách do đổi địa điểm bán; Có thể Rao hàng, bán hàng vào bất kể giờ nào; chủ động trong việc giao hàng, giới thiệu được uy tín, thâm niên bán hàng cho các khách hàng mới.
 
+Ngoài ra để giữ chân thành viên cũ, mời gọi thành viên mới vào Chợ vào Nhóm bán hàng, người bán hàng sẽ được Chủ chợ, Chủ Nhóm bán hỗ trợ tìm nguồn cung rẻ về giá; tốt về chất lượng để giới thiệu; giới.
+
 Bên cạnh, bằng việc sử dụng App Kèo song song với việc bán theo hình thức truyền thống (gian hàng tại chợ, cửa hàng dịch vụ.v.v.) người bán hàng có thể chuyển dần từ bán truyền thống sang bán bằng App mà không mất đi thông tin khách hàng thân quen. Điều này giúp chuyển đổi dần hình thức bán, tạo cơ hội tăng doanh số bán hàng.
 
 Tóm lại, với APP, người cung cấp dịch vụ, người bán lẻ sẽ:
@@ -53,18 +55,18 @@ Trước đây, với kho thông tin hiện có, với tinh thần và khả nă
 
 Ngày nay với chức năng Chủ chợ, App Kèo sẽ cung cấp cho những người này chức năng mời gọi những người mua bán quen, những địa chỉ mua bán đã được kiểm chứng, những nơi cung cấp dịch vụ uy tín đăng ký thông tin để tạo thành Chợ, thành Nhóm bán hàng riêng cho từng cụm dân cư. Kẻ bao đồng, Người vác tù và hàng tổng sẽ trở thành Chủ chợ.
 
+Chủ Chợ mời gọi thành viên mới vào bán tại Chợ, giữ các thành viên cũ tiếp tục gắn bó với Chợ qua nhiều chính sách như: giới thiệu nguồn hàng rẻ, giới thiệu khách mua, khách dùng dịch vụ.v.v. 
+
 Chủ chợ sẽ là nơi quy tụ tất cả thông tin về nhu cầu mua bán của thành viên trong Chợ; Chủ chợ sẽ biết: Ai? Ở đâu? Cần gì? Cần bao nhiêu? Khi nào cần? 
 
-Những nơi cần thông tin này sẽ phải thông qua Chủ chợ để có được cơ hội cung cấp nguồn hàng cho Chợ; Quan trọng nhất là: Thông tin này sẽ không miễn phí.
-
-Để giữ chân thành viên cũ, lôi kéo thành viên mới vào Chợ, Chủ chợ phải nâng uy tín qua việc lựa chọn các thông tin nguồn hàng tốt về giá; tốt về chất lượng để giới thiệu cho bên cung cấp; Đồng thời chọn những thành viên bán hàng uy tín để giới thiệu cho bên cung cấp.
+Chủ chợ sẽ quyết định cung cấp thông tin gì, cung cấp cho  ai. Những nơi cần thông tin này sẽ phải thông qua Chủ chợ để có được cơ hội cung cấp nguồn hàng cho Chợ, tìm được nguồn dịch vụ từ Chợ; Quan trọng nhất là Chủ Chợ sẽ được lợi ích vì: Thông tin này sẽ không miễn phí.
 
 Về lâu dài, số lượng người mua bán trong mỗi khu vực sẽ không thể mãi tăng, nên số lượng Chợ và Chủ chợ trên App Kèo cho mỗi khu vực cũng không là vô hạn. Cơ hội sẽ không dành cho người đến sau; Trâu chậm uống nước đục. Vậy thôi.
 
 Tóm lại với APP, người không mua, không bán nhưng có khả năng làm chủ sẽ:
 - _Tự tạo Chợ riêng._
 - _Phát triển Chợ với chính sách giữ uy tín_
-- _Làm chủ thông tin về nguồn hàng._
+- _Làm chủ thông tin về nguồn hàng, nguồn dịch vụ._
 - _Không mua bán nhưng có thu nhập từ mua bán._
 ## Đối với những người mua hàng, người dùng dịch vụ:
 Đối tượng cuối của các hoạt động mua bán, cung cấp dịch vụ chính là người mua hàng, người dùng dịch vụ, đây cũng là đối tượng chính của App-keo.
