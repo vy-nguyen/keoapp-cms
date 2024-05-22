@@ -5,8 +5,6 @@ Từ rất lâu, những người người bán lẻ tại các chợ truyền t
 
 Với bán hàng truyền thống, khi người bán chuyển địa điểm do nhiều lý do như dời nhà, không thuê được mặt bằng hoặc tạm nghỉ một thời gian thì vấn đề lớn nhất là giữ được các khách hàng quen nhưng điều này rất khó.
 
-Với APP Kèo, người bán hàng riêng lẻ hay bán trong một Nhóm cụ thể (tại một Chợ) vẫn có thể bán hàng bình thường, không mất đi khách nào khi đổi sang bán tại Nhóm khác vì các thông tin khách mua được lưu giữ theo người bán.
-
 Khi dùng App Kèo, người bán lẻ, người cung cấp dịch vụ (gọi chung là người bán) chỉ cần có một số điện thoại, một điện thoại thông minh giá bình dân. Người bán sẽ mở một quầy bán hàng “Shop” trên App với tên do mình đặt cùng với thông tin như địa chỉ, số điện thoại của quầy bán hàng. Các thông tin này rất quan trọng, nó sẽ giúp người bán hàng giới thiệu cho người mua biết được và phân biệt được với các quầy hàng khác; đồng thời lưu giữ các lần bán hàng cũng nhưng các thông tin về khách hàng thường mua; thông tin này để người bán hàng thuận lợi khi quản lý đồng thời cũng tạo niềm tin, giúp cho người mua mới có thể tham khảo.
 
 Sau khi đã có quầy bán hàng, người bán sẽ đưa các thông tin về các món hàng của mình: hình ảnh, giá bán, hình thức giao hàng .v.v. Đây là việc Rao kèo qua App
@@ -15,7 +13,9 @@ Thông qua APP Kèo, người mua, người cần dịch vụ (gọi chung là n
 
 Như vậy với App Kèo, người bán sẽ không cần mặt bằng và không phụ thuộc vào mặt bằng;  Ngoài việc không tốn tiền thuê thì quan trọng hơn hết là không bị mất khách do đổi địa điểm bán; Có thể Rao hàng, bán hàng vào bất kể giờ nào; chủ động trong việc giao hàng, giới thiệu được uy tín, thâm niên bán hàng cho các khách hàng mới.
 
-Ngoài ra để giữ chân thành viên cũ, mời gọi thành viên mới vào Chợ vào Nhóm bán hàng, người bán hàng sẽ được Chủ chợ, Chủ Nhóm bán hỗ trợ tìm nguồn cung rẻ về giá; tốt về chất lượng để giới thiệu; giới thiệu cho khách đến mua hàng, dùng dịch vụ.
+Với APP Kèo, người bán hàng riêng lẻ hay bán trong một Nhóm cụ thể (tại một Chợ) vẫn có thể bán hàng bình thường, không mất đi khách nào khi đổi sang bán tại Nhóm khác vì các thông tin khách mua được lưu giữ theo người bán.
+
+Ngoài ra để giữ chân thành viên cũ, mời gọi thành viên mới vào Chợ vào Nhóm bán hàng, người bán hàng sẽ được Chủ chợ, Chủ Nhóm bán hỗ trợ tìm nguồn cung rẻ về giá; tốt về chất lượng; sẽ giới thiệu cho khách đến mua hàng, dùng dịch vụ.
 
 Bên cạnh đó, bằng việc sử dụng App Kèo song song với việc bán theo hình thức truyền thống (gian hàng tại chợ, cửa hàng dịch vụ.v.v.) người bán hàng có thể chuyển dần từ bán truyền thống sang bán bằng App mà không mất đi thông tin khách hàng thân quen. Điều này giúp chuyển đổi dần hình thức bán, tạo cơ hội tăng doanh số bán hàng.
 
@@ -53,13 +53,11 @@ Trên thực tế mua bán, ngoài những người cung cấp dịch vụ, ngư
 
 Trước đây, với kho thông tin hiện có, với tinh thần và khả năng gắn kết cộng đồng chỉ mang lại cho những người này danh hiệu: Kẻ bao đồng, Người vác tù và hàng tổng.
 
-Ngày nay với chức năng Chủ chợ, App Kèo sẽ cung cấp cho những người này chức năng mời gọi những người mua bán quen, những địa chỉ mua bán đã được kiểm chứng, những nơi cung cấp dịch vụ uy tín cùng tham gia App, đăng ký thông tin để tạo thành Chợ, thành Nhóm bán hàng riêng cho từng cụm dân cư. Kẻ bao đồng, Người vác tù và hàng tổng ngày nào sẽ trở thành Chủ chợ.
+Ngày nay với chức năng Chủ chợ, App Kèo sẽ cung cấp cho những người này chức năng mời gọi những người mua bán quen, những địa chỉ mua bán đã được kiểm chứng, những nơi cung cấp dịch vụ uy tín cùng tham gia App, đăng ký thông tin để tạo thành Chợ, thành Nhóm bán hàng riêng cho từng cụm dân cư. Kẻ bao đồng, Người vác tù và hàng tổng ngày nào thì nay sẽ trở thành Chủ chợ.
 
 Chủ Chợ mời gọi thành viên mới vào bán tại Chợ, giữ các thành viên cũ tiếp tục gắn bó với Chợ với nhiều cách như: giới thiệu nguồn hàng rẻ, giới thiệu khách mua, khách dùng dịch vụ.v.v. 
 
-Chủ chợ sẽ là nơi quy tụ tất cả thông tin về nhu cầu mua bán của thành viên trong Chợ; Chủ chợ sẽ biết: Ai? Ở đâu? Cần gì? Cần bao nhiêu? Khi nào cần? Đây là nguồn thông tin quan trọng cho người bán hàng, người cung ứng dịch vụ. 
-
-Chủ chợ sẽ quyết định cung cấp thông tin gì, cung cấp cho những ai vì **thông tin này sẽ không miễn phí**. 
+Chủ chợ sẽ là nơi quy tụ tất cả thông tin về nhu cầu mua bán của thành viên trong Chợ; Chủ chợ sẽ biết: Ai? Ở đâu? Cần gì? Cần bao nhiêu? Khi nào cần? Đây là nguồn thông tin quan trọng cho người bán hàng, người cung ứng dịch vụ. Vì Chủ chợ sẽ quyết định cung cấp thông tin gì, cung cấp cho những ai? vì **thông tin này sẽ không miễn phí**. 
 
 Người chấp nhận trả tiền để nhận được thông tin sẽ tăng cơ hội bán được hàng, tăng cơ hội cung ứng được dịch vụ. 
 
