@@ -5,6 +5,8 @@ Từ rất lâu, những người người bán lẻ tại các chợ truyền t
 
 Với bán hàng truyền thống, khi người bán chuyển địa điểm do nhiều lý do như dời nhà, không thể tiếp tục thuê mặt bằng hoặc tạm nghỉ một thời gian thì vấn đề lớn nhất là giữ được các khách hàng quen nhưng điều này rất khó.
 
+Với APP Kèo, người bán hàng riêng lẻ hay bán trong một Nhóm cụ thể (tại một Chợ) vẫn có thể bán hàng bình thường khi đổi sang bán tại Nhóm khác vì các thông tin khách mua được lưu giữ theo người bán.  
+
 Khi dùng App Kèo, người bán lẻ, người cung cấp dịch vụ (gọi chung là người bán) chỉ cần có một số điện thoại, một điện thoại thông minh giá bình dân. Người bán sẽ mở một quầy bán hàng “Shop” trên App với tên do mình đặt cùng với thông tin như địa chỉ, số điện thoại của quầy bán hàng. Các thông tin này rất quan trọng, nó sẽ giúp người bán hàng giới thiệu cho người mua biết được và phân biệt được với các quầy hàng khác; đồng thời lưu giữ các lần bán hàng cũng nhưng các thông tin về khách hàng thường mua; thông tin này để người bán hàng thuận lợi khi quản lý đồng thời cũng tạo niềm tin, giúp cho người mua mới có thể tham khảo.
 
 Sau khi đã có quầy bán hàng, người bán sẽ đưa các thông tin về các món hàng của mình: hình ảnh, giá bán, hình thức giao hàng .v.v. Đây là việc Rao kèo qua App
@@ -16,8 +18,9 @@ Như vậy với App Kèo, người bán không cần mặt bằng, sẽ không 
 Bên cạnh, bằng việc sử dụng App Kèo song song với việc bán theo hình thức truyền thống (gian hàng tại chợ, cửa hàng dịch vụ.v.v.) người bán hàng có thể chuyển dần từ bán truyền thống sang bán bằng App mà không mất đi thông tin khách hàng thân quen. Điều này giúp chuyển đổi dần hình thức bán, tạo cơ hội tăng doanh số bán hàng.
 
 Tóm lại, với APP, người cung cấp dịch vụ, người bán lẻ sẽ:
-- _Không cần mặt bằng._
+- _Không cần và không phụ thuộc mặt bằng._
 - _Không lo mất khách hàng do đổi địa điểm_
+- _Không mất thông tin khách hàng khi đổi Nhóm bán_
 - _Bán hàng mọi lúc, mọi nơi bằng điện thoại._
 - _Giới thiệu uy tín, thâm niên bán hàng_
 - _Dễ dùng, vừa bán tại chợ vừa bán đi nơi khác bằng điện thoại_
@@ -52,10 +55,13 @@ Chủ chợ sẽ là nơi quy tụ tất cả thông tin về nhu cầu mua bán
 
 Những nơi cần thông tin này sẽ phải thông qua Chủ chợ để có được cơ hội cung cấp nguồn hàng cho Chợ; Quan trọng nhất là: Thông tin này sẽ không miễn phí.
 
+Để giữ chân thành viên cũ, lôi kéo thành viên mới vào Chợ, Chủ chợ phải nâng uy tín qua việc lựa chọn các thông tin nguồn hàng tốt về giá; tốt về chất lượng để giới thiệu cho bên cung cấp; Đồng thời chọn những thành viên bán hàng uy tín để giới thiệu cho bên cung cấp.
+
 Về lâu dài, số lượng người mua bán trong mỗi khu vực sẽ không thể mãi tăng, nên số lượng Chợ và Chủ chợ trên App Kèo cho mỗi khu vực cũng không là vô hạn. Cơ hội sẽ không dành cho người đến sau; Trâu chậm uống nước đục. Vậy thôi.
 
 Tóm lại với APP, người không mua, không bán nhưng có khả năng làm chủ sẽ:
 - _Tự tạo Chợ riêng._
+- _Phát triển Chợ với chính sách giữ uy tín_
 - _Làm chủ thông tin về nguồn hàng._
 - _Không mua bán nhưng có thu nhập từ mua bán._
 ## Đối với những người mua hàng, người dùng dịch vụ:
