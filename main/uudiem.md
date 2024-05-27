@@ -1,4 +1,4 @@
-![Keo App](../img/sodobanmua.jpg)
+![Keo App](../img/keo.png)
 # APP KÈO MANG LẠI NHỮNG TIỆN ÍCH GÌ? CHO AI?
 ## Đối với những người cung cấp dịch vụ, người bán lẻ 
 Từ rất lâu, những người người bán lẻ tại các chợ truyền thống, các hẻm, khu dân cư, thường bán trên sạp chợ, quầy  hàng; sẽ cung cấp các dịch vụ, mở bán vào những ngày, giờ cụ thể. Khách hàng sẽ tự tìm đến để mua hàng, tự tìm đến nhờ cung cấp dịch vụ.
@@ -68,6 +68,7 @@ Tóm lại với APP, người không mua, không bán nhưng có khả năng l�
 - _Mở mang Chợ với chính sách tạo và giữ uy tín_
 - _Thu được tiền từ thông tin về nguồn hàng, nguồn dịch vụ._
 - _Không mua bán nhưng có thu nhập từ mua bán._
+![Keo App](../img/sodobanmua.jpg)  
 ## Đối với những người mua hàng, người dùng dịch vụ:
 Đối tượng cuối của các hoạt động mua bán, cung cấp dịch vụ chính là người mua hàng, người dùng dịch vụ. Đây cũng là đối tượng chính của App-keo, tất cả ưu điểm của App cuối cùng cũng nhằm phục vụ người mua hàng.
 
