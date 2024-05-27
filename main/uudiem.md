@@ -1,4 +1,4 @@
-![Keo App](../img/keo.png)
+![Keo App](../img/sodobanmua.png)
 # APP KÈO MANG LẠI NHỮNG TIỆN ÍCH GÌ? CHO AI?
 ## Đối với những người cung cấp dịch vụ, người bán lẻ 
 Từ rất lâu, những người người bán lẻ tại các chợ truyền thống, các hẻm, khu dân cư, thường bán trên sạp chợ, quầy  hàng; sẽ cung cấp các dịch vụ, mở bán vào những ngày, giờ cụ thể. Khách hàng sẽ tự tìm đến để mua hàng, tự tìm đến nhờ cung cấp dịch vụ.
