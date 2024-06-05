@@ -1,5 +1,5 @@
 ![Keo App](../img/..jpg)
-# CÁC TÌNH HUỐNG KHI CÀI
+# CÁC TÌNH HUỐNG KHI CÀI APP
 
 
-# CÁC TÌNH HUỐNG KHI SỬ DỤNG
+# CÁC TÌNH HUỐNG KHI SỬ DỤNG APP
