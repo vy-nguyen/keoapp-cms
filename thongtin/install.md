@@ -1,3 +1,3 @@
-![Keo App](../img/thit.jpg)
+![Keo App](../img/ .jpg)
 # CÁCH TẢI VÀ CÀI ĐẶT APP
 
