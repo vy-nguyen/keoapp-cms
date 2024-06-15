@@ -3,8 +3,11 @@
     { "text": "kg" },
     { "text": "mét" },
     { "text": "lít" },
+    { "text": "giờ" },
     { "text": "chai" },
     { "text": "bộ" },
+    { "text": "bịch" },
+    { "text": "bao" },
     { "text": "thùng" },
     { "text": "đôi" },
     { "text": "cái" }, 
@@ -13,6 +16,8 @@
     { "text": "bó" },
     { "text": "cây" },
     { "text": "gói" }
+    { "text": "viên" },
+    { "text": "hộp" },
   ],
   "currencyUnits": [
     { "text": "Đồng", "meta": "vnd" },
