@@ -1,0 +1,21 @@
+{
+  "measureUnits": [
+    { "text": "Kg" },
+    { "text": "Trái" },
+    { "text": "Chậu" },
+    { "text": "Bó" },
+    { "text": "Cây" },
+    { "text": "Cái" }
+  ],
+  "currencyUnits": [
+    { "text": "Đồng", "meta": "vnd" },
+    { "text": "Dollar", "meta": "usd" }
+  ],
+  "phoneTypes": [
+    { "text": "Zalo" },
+    { "text": "Whatsapp" },
+    { "text": "Messenger" },
+    { "text": "Viber" },
+    { "text": "SMS" }
+  ]
+}
