@@ -1,11 +1,18 @@
 {
   "measureUnits": [
-    { "text": "Kg" },
-    { "text": "Trái" },
-    { "text": "Chậu" },
-    { "text": "Bó" },
-    { "text": "Cây" },
-    { "text": "Cái" }
+    { "text": "kg" },
+    { "text": "mét" },
+    { "text": "lít" },
+    { "text": "chai" },
+    { "text": "bộ" },
+    { "text": "thùng" },
+    { "text": "đôi" },
+    { "text": "cái" }, 
+    { "text": "trái" },
+    { "text": "chậu" },
+    { "text": "bó" },
+    { "text": "cây" },
+    { "text": "gói" }
   ],
   "currencyUnits": [
     { "text": "Đồng", "meta": "vnd" },
