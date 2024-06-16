@@ -1,0 +1,330 @@
+traicay:
+  title: Trái Cây
+  type: product
+  rank: 202
+  alias:
+    - trái cây
+    - trai cay
+    - quả
+    - qua
+    - dua
+    - dưa
+    - dừa
+  header:
+    text: Trái Cây
+    icon: fruit-icon
+  quality:
+    - text: "Đơn vị trọng lượng tính bằng kg"
+  time:
+    - text: "Sẽ giao từ 1 đến 9 tháng nữa."
+  desc:
+    - text: "Cam"
+    - text: "Quýt"
+    - text: "Xoài"
+    - text: "Bưởi"
+    - text: "Dừa"
+    - text: "Sầu riêng"
+
+rauxanh:
+  title: Rau Củ Hạt
+  type: product
+  rank: 200
+  quality:
+    - text: "Đơn vị trọng lượng tính bằng kg"
+  time:
+    - text: "Sẽ giao từ 1 tuần đến 3 tháng nữa."
+  alias:
+    - rau
+    - cu
+    - hat
+  header:
+    text: “Rau Xanh"
+    icon: rau-icon
+  desc:
+    - text: "Rau xanh (xà lách, cải, rau mùi...)"
+    - text: "Củ (khoai tây, cà rốt, củ cải...)"
+    - text: "Quả (cà, ớt, bí...)"
+
+thit:
+  title: Thịt Cá
+  type: product
+  rank: 201
+  alias:
+    - thit
+    - ca
+  header:
+    text: Thịt cá tươi
+    icon: meat
+
+thucan:
+  title: Thức ăn
+  type: product
+  rank: 100
+  alias:
+    - do an
+    - thuc an
+    - food
+  header:
+    text: Thức ăn nhanh
+    icon: food
+
+giaikhat:
+  title: Thức uống
+  type: product
+  rank: 101
+  alias:
+    - giai khat
+    - do uong
+  header:
+    text: Uống giải khát
+    icon: drink
+
+quanao:
+  title: Thời trang
+  type: product
+  rank: 300
+  alias:
+    - quan ao
+    - thoi trang
+  header:
+    text: Quần áo, thời trang, may mặc
+    icon: clothes
+
+giaydep:
+  title: Giầy dép
+  type: product
+  rank: 301
+  alias:
+    - giay dep
+  header:
+    text: Giầy dép
+    icon: shoes
+
+trangsuc:
+  title: Trang sức
+  type: product
+  rank: 400
+  alias:
+    - trang suc
+  header:
+    text: Trang sức, trang điểm, làm đẹp
+    icon: jewelry
+
+mypham:
+  title: Mỹ phẩm
+  type: product
+  rank: 401
+  alias:
+    - my pham
+    - kem da
+  header:
+    text: Mỹ phẩm, son phấn, dưỡng da
+    icon: lotion
+
+dienmap:
+  title: Điện máy
+  type: product
+  rank: 600
+  alias:
+    - dien may
+  header:
+    text: Điện máy, điện lạnh, điện cơ
+    icon: electric
+
+pharma:
+  title: Thuốc men
+  type: product
+  rank: 500
+  alias:
+    - thuoc
+  header:
+    text: Thuốc Nam, thuốc Tây, thuốc Bắc
+    icon: pharmacy
+
+caycanh:
+  title: Cây cảnh
+  type: product
+  rank: 700
+  alias:
+    - cay canh
+    - cay kieng
+  header:
+    text: Cây cảnh, cây kiễng
+    icon: bonsai
+
+thuysinh:
+  title: Thủy sinh
+  type: product
+  rank: 701
+  alias:
+    - thuy sinh
+  header:
+    text: Thủy sinh, cá kiểng
+    icon: fish
+
+giadung:
+  title: Gia dụng
+  type: product
+  rank: 800
+  alias:
+    - gia dung
+  header:
+    text: Đồ gia dụng
+    icon: household
+
+dogo:
+  title: Đồ gỗ
+  type: product
+  rank: 900
+  alias:
+    - go
+    - moc
+    - ban ghe
+  header:
+    text: Đồ gỗ, sản phẩm gỗ
+    icon: furniture
+
+suaxe:
+  title: Sửa xe
+  type: service
+  rank: 400
+  alias:
+    - sua xe
+  header:
+    text: Sửa, bảo trì mọi loại xe 2 bánh
+    icon: motoshop
+
+suanha:
+  title: Sửa nhà
+  type: service
+  rank: 401
+  alias:
+    - sua nha
+  header:
+    text: Nhận sửa chữa nhà cửa
+    icon: handyman
+
+suaoto:
+  title: Sửa ôtô
+  type: service
+  rank: 402
+  alias:
+    - sua oto
+  header:
+    text: Sửa chữa xe ôtô, xe tải
+    icon: autoshop
+
+diennha:
+  title: Sửa điện nhà
+  type: service
+  rank: 403
+  alias:
+    - dien nha
+  header:
+    text: Nhận sửa chữa điện nhà
+    icon: house-electric
+
+chamsoc:
+  title: Chăm sóc
+  type: service
+  rank: 100
+  alias:
+    - cham soc
+  header:
+    text: Chăm sóc người già, người bệnh
+    icon: nurse
+
+giutre:
+  title: Giữ trẻ
+  type: service
+  rank: 101
+  alias:
+    - giu tre
+    - cham em
+  header:
+    text: Giữ trẻ
+    icon: childcare
+
+daykem:
+  title: Dạy kèm
+  type: service
+  rank: 120
+  alias:
+    - day kem
+  header:
+    text: Nhận dạy kèm, phụ đạo sau giờ học
+    icon: tutor
+
+thuemuon:
+  title: Thuê mướn
+  type: service
+  rank: 130
+  alias:
+    - thue muon
+  header:
+    text: Thuê ngày công lao động
+    icon: labor
+
+bacsy:
+  title: Bác sỹ
+  type: service
+  rank: 200
+  alias:
+    - bac sy
+  header:
+    text: Y tế, khám bệnh, chữa bệnh
+    icon: doctor
+
+nhasy:
+  title: Nha sỹ
+  type: service
+  rank: 201
+  alias:
+    - nha sy
+  header:
+    text: Nha khoa, khám răng, trám răng
+    icon: dentist
+
+vesinh:
+  title: Vệ sinh nhà
+  type: service
+  rank: 500
+  alias:
+    - ve sinh
+    - don dep
+  header:
+    text: Nhận làm vệ sinh nhà cửa
+    icon: janitor
+
+lamvuon:
+  title: Làm vườn
+  type: service
+  rank: 501
+  alias:
+    - lam vuon
+    - quet don
+  header:
+    text: Nhận làm vườn
+    icon: garden
+
+lamdep:
+  title: Làm đẹp
+  type: service
+  rank: 300
+  alias:
+    - lam dep
+    - my vien
+  header:
+    text: Nhận làm đẹp, trang điểm tiệc tùng, dạ hội...
+    icon: beauty
+
+nail:
+  title: Nail tóc
+  type: service
+  rank: 301
+  alias:
+    - nail
+    - toc
+  header:
+    text: Nhận làm nail, tóc
+    icon: nail
