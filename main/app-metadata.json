@@ -1,4 +1,9 @@
 {
+  "endpoints": [
+    "raokeo.com", "letamanh.net"
+  ],
+  "ips": [
+  ],
   "measureUnits": [
     { "text": "kg" },
     { "text": "mét" },
@@ -15,9 +20,9 @@
     { "text": "chậu" },
     { "text": "bó" },
     { "text": "cây" },
-    { "text": "gói" }
+    { "text": "gói" },
     { "text": "viên" },
-    { "text": "hộp" },
+    { "text": "hộp" }
   ],
   "currencyUnits": [
     { "text": "Đồng", "meta": "vnd" },
