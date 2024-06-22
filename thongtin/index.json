@@ -1,12 +1,20 @@
 {
   "toc": [
+   {
+      "file": "policy.md",
+      "summary": "Điều khoản người dùng",
+      "desc": "Điều khoản người dùng",
+      "date": "04/6/2024",
+      "image": "",
+      "order": 100
+    },
     {
       "file": "install.md",
       "summary": "Các tải và cài App",
       "desc": "Tải và cài App",
       "date": "04/6/2024",
       "image": "",
-      "order": 100
+      "order": 101
     },
     {
       "file": "tinhhuong.md",
@@ -14,7 +22,7 @@
       "desc": "Tình huống cài và sử dụng",
       "date": "04/6/2024",
       "image": "",
-      "order": 101
+      "order": 102
     }
   ]
 }
