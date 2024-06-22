@@ -7,6 +7,7 @@
   "measureUnits": [
     { "text": "kg" },
     { "text": "mét" },
+    { "text": "mét vuông" },
     { "text": "lít" },
     { "text": "giờ" },
     { "text": "chai" },
