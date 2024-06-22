@@ -1,4 +1,4 @@
-# CHÍNH SÁCH APP KÈO
+# ĐIỀU KHOẢN NGƯỜI DÙNG
 App Kèo là công cụ kết nối giữa người có khả năng (bán, mua hàng, cung cấp dịch vụ) và người cần. Các mặt hàng, dịch vụ đưa lên App phải là phù hợp pháp luật và thuần phong mỹ tục. App Kèo không nhằm mục đích khác. 
 
 Các bên tham gia App chịu trách nhiệm về thông tin, nội dung, hình ảnh các mặt hàng, dịch vụ do mình đưa lên App
