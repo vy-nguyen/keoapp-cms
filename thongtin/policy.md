@@ -3,7 +3,7 @@ App Kèo là công cụ kết nối giữa người có khả năng (bán, mua h
 
 Các bên tham gia App chịu trách nhiệm về thông tin, nội dung, hình ảnh các mặt hàng, dịch vụ do mình đưa lên App
 
-Các bên tự đưa ra các điều kiện khi thực hiện giao dịch và tự chịu trách nhiệm. Trường hợp có tranh chấp, các bên tự thỏa thuận giải quyết.
+Các bên tự đưa ra các điều kiện khi thực hiện giao dịch và tự chịu trách nhiệm theo nguyên tắc "Thuận mua, Vừa bán". Trường hợp có tranh chấp, các bên tự thỏa thuận giải quyết. 
 
 Việc thanh toán tiền hàng, chi phí dịch vụ do các bên thực hiện trực tiếp với nhau.
 
