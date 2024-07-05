@@ -1,6 +1,5 @@
 ![Keo App](../img/dongtien.jpeg)
-# Kinh Tế, Chính Trị, và Toàn Cầu Hóa
-# Phần 3
+# Kinh Tế, Chính Trị, và Toàn Cầu Hóa - Phần 3
 # Tích Lũy Nhiều Tiền Để Làm Gì?
 Trước khi phân tích chừng nào thể chế cho thuê quyền lực bị mất cân bằng tài chính, thị trường tự do lấy kinh tế làm trọng, vẫn luôn đối mặt với vấn đề này. Suy thoái và khủng hoảng kinh tế là chu kỳ thường gặp mỗi khi dòng tiền chảy từ đầu nguồn bị mất cân bằng với lượng tiền mang tích lũy, hoặc đơn giản hơn, ví như bịnh “tụ máu". Nhiều lý thuyết kinh tế tìm đủ giải pháp cốt tránh né hay làm nhẹ đi di-hại của bịnh tụ máu này, trong đó lý thuyết của chủ nghĩa Cộng Sản (CS) muốn xóa bỏ nó hoàn toàn. Xác định lòng tham tư hữu là cốt lõi của vấn đề, kinh tế thời bao cấp của CS thay thế đồng tiền bằng tiêu chuẩn cung cấp hàng tháng, và quản lý nguồn cung bằng chỉ tiêu, bằng hoạch định kiểu XHCN. Thực tế của thí nghiệm XHCN hơn 70 năm cho thấy, thay vì gặp khủng hoảng theo chu kỳ, nền kinh tế XHCN gặp khủng hoảng thường trực, luôn bị khan hiếm hàng hóa và dư thừa tiền bạc.
 
