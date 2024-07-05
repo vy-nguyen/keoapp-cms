@@ -1,6 +1,5 @@
 ![Keo App](../img/kinhtechinhtri2.jpeg)
-# Kinh Tế, Chính Trị, và Toàn Cầu Hóa
-# Phần 2
+# Kinh Tế, Chính Trị, và Toàn Cầu Hóa - Phần 2
 # Tích Lũy Nhiều Tiền Để Làm Gì?
 Mô hình kinh tế nào có tiền lưu thông, thì trước sau tiền cũng sẽ dồn vô một nhóm nhỏ người. Dòng tiền chảy, lưu thông chậm lại hay tắc nghẽn đều làm nền kinh tế lao đao, thậm chí dẫn đến bạo loạn, thay đổi chính trị. Muốn duy trì dòng chảy của đồng tiền, cơ chế vận hành kinh tế phải có cách liên tục bơm tiền ở đầu nguồn. Khi đồng tiền lúc nào cũng dồn vào một nhóm nhỏ nơi cuối nguồn, câu hỏi có vẻ lẩn thẩn là người ta tích lũy nhiều tiền để làm gì?
 
