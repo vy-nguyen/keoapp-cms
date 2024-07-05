@@ -33,4 +33,4 @@ Sản phẩm chiếm vốn tư bản nội địa lớn nhứt của Trung Quố
 
 Phân tích chuyên môn về tiền tệ, thuế má để cho thấy Trung Quốc là nền kinh tế in tiền rất phức tạp, lấy tiêu chuẩn đơn giản của ông Ford làm vấn đề rõ hơn nhiều, nhứt là khi Trung Quốc và Việt Nam muốn gỡ rối bịnh tụ máu BĐS bằng tiêu dùng nội địa hay bơm thêm tiền vào nền kinh tế.
 
-(còn nữa)
+*(còn nữa)*
