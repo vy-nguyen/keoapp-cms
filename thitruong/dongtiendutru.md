@@ -1,4 +1,4 @@
-![Keo App](../img/keo.png)
+![Keo App](../img/dongtien.jpeg)
 # Đồng Tiền Dự Trữ
 
 Tiền tệ ngày nay được gọi là “fiat money”, tiền giấy bởi giá trị của nó đơn thuần dựa vào lòng tin. Cả chục năm nay, nhờ toàn cầu hóa mà nhiều quốc gia, trong đó có Việt Nam, có thể in tiền vô tội vạ mà không bị lạm phát. Sự khác biệt giữa lạm phát ngày nay và trước đây, trong thập niên 70 trên thế giới, và thập niên 80s, đầu 90 ở Việt Nam, là kinh tế toàn cầu cung cấp dư thừa hàng hóa thiết yếu. Số tiền còn dư trở thành của cải tích lũy, thành tiền dành dụm của nhiều người nghèo, và tiền đầu tư vào tài sản sinh lời của giới trung lưu và nhà giàu. Lạm phát ngày nay là độ thổi phồng của bong bóng giá tài sản (asset bubble) được nhiều nhà đầu tư đeo đuổi. Nó chỉ ảnh hưởng đến cuộc sống thường nhật của người nghèo khi có sự đứt gãy, gián đoạn chuỗi cung ứng do đại dịch Covid vừa qua.
