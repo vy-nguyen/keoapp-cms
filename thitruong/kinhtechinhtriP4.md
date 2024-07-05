@@ -1,6 +1,6 @@
-# Kinh Tế, Chính Trị, và Toàn Cầu Hóa
-# (Phần 4)
-# Mô Hình Kinh Tế In Tiền của Trung Quốc 
+![Keo App](../img/tiengiay.jpeg)
+# Kinh Tế, Chính Trị, và Toàn Cầu Hóa - Phần 4
+# Mô Hình Kinh Tế In Tiền của Trung Quốc
 Trung Quốc là công xưởng thế giới, kiểm soát hầu hết toàn bộ chuỗi cung ứng, ngày càng làm chủ công nghệ lõi giá trị cao, hạ tầng hiện đại quy mô hơn Hoa Kỳ, tại sao lại là mô hình kinh tế in tiền?
 
 Sau dịch Covid, Trung Quốc áp dụng chính sách đẩy mạnh nhu cầu tiêu dùng nội địa, lấy nhu cầu tiêu dùng của dân làm lực bơm vòng xoay của đồng tiền. Xét về lý thuyết vĩ mô, bốn năm phong tỏa dịch Covid là chiến lược gần như hoàn hảo trên lý thuyết, để Trung Quốc thoát khỏi quỹ đạo làm công xưởng thế giới, không những làm chủ chuỗi cung ứng giá trị cao, mà còn có thương hiệu riêng lấn chiếm thị trường toàn cầu của Hoa Kỳ và đồng minh, từ công nghệ cao, ôtô, máy bay, đến thiết bị công nông nghiệp, điện tử, hóa chất… Chiến lược này hoàn hảo vì nó cắt phần lớn nguồn cung ứng từ công xưởng cho nền kinh tế thế giới, đồng thời kiểm soát chặt nhu cầu tiêu thụ của nội địa. Thời gian phong tỏa càng dài, kinh tế thế giới càng lao đao, mô hình chính trị của Trung Quốc càng chứng minh tính ưu việt của nó. Khi hết phong tỏa, với tiềm lực của công xưởng và nhu cầu nội địa bị bó buộc, nền kinh tế Trung Quốc sẽ cất cánh, tách biệt hoàn toàn với thế giới bằng nhu cầu của thị trường trên 1 tỷ dân. Thêm vào đó, chiến lược mũi nhọn điển hình là ôtô điện của Trung Quốc sẽ đè bẹp kỹ nghệ ôtô truyền thống của Hoa Kỳ, Đức, Nhật, và Nam Hàn.
