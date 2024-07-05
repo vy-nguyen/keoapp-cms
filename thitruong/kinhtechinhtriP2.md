@@ -1,4 +1,4 @@
-![Keo App](../img/dongtien.jpeg)
+![Keo App](../img/kinhtechinhtri2.jpeg)
 # Kinh Tế, Chính Trị, và Toàn Cầu Hóa
 # Phần 2
 # Tích Lũy Nhiều Tiền Để Làm Gì?
