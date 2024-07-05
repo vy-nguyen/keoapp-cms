@@ -23,6 +23,38 @@
       "date": "10/5/2024",
       "image": "../img/keo.png",
       "order": 102
+    },
+    {
+      "file": "kinhtechinhtriP2.md",
+      "summary": "Kinh tế chính trị và toàn cầu hóa",
+      "desc": "Kinh tế, chính trị",
+      "date": "10/5/2024",
+      "image": "../img/keo.png",
+      "order": 103
+    },
+    {
+      "file": "kinhtechinhtriP3.md",
+      "summary": "Kinh tế chính trị và toàn cầu hóa",
+      "desc": "Kinh tế, chính trị",
+      "date": "10/5/2024",
+      "image": "../img/keo.png",
+      "order": 104
+    },
+    {
+      "file": "kinhtechinhtriP4.md",
+      "summary": "Kinh tế chính trị và toàn cầu hóa",
+      "desc": "Kinh tế, chính trị",
+      "date": "10/5/2024",
+      "image": "../img/keo.png",
+      "order": 105
+    },
+    {
+      "file": "kinhtechinhtriP5.md",
+      "summary": "Kinh tế chính trị và toàn cầu hóa",
+      "desc": "Kinh tế, chính trị",
+      "date": "10/5/2024",
+      "image": "../img/keo.png",
+      "order": 106
     }
   ]
 }
