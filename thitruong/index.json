@@ -2,58 +2,56 @@
   "toc": [
    {
       "file": "dongtiendutru.md",
-      "summary": "Đồng tiền dự trữ",
-      "desc": "tiền",
+      "summary": "Đồng Tiền Dự Trữ",
+      "desc": "Tiền tệ ngày nay được gọi là “fiat money”, tiền giấy bởi giá trị của nó đơn thuần dựa vào lòng tin. Cả chục năm nay, nhờ toàn cầu hóa mà nhiều quốc gia, trong đó có Việt Nam, có thể in tiền vô tội vạ mà không bị lạm phát. Sự khác biệt giữa lạm phát ngày nay và trước đây, trong thập niên 70 trên thế giới, và thập niên 80s, đầu 90 ở Việt Nam, là kinh tế toàn cầu cung cấp dư thừa hàng hóa thiết yếu. Số tiền còn dư trở thành của cải tích lũy, thành tiền dành dụm của nhiều người nghèo, và tiền đầu tư vào tài sản sinh lời của giới trung lưu và nhà giàu...",
       "date": "10/5/2024",
       "image": "../img/keo.png",
+      "author": "Vy Nguyen",
       "order": 101
     },
     {
-      "file": "app.md",
-      "summary": "App",
-      "desc": "App",
-      "date": "10/5/2024",
-      "image": "../img/thitruong.jpeg",
-      "order": 100
-    },
-    {
       "file": "kinhtechinhtriP1.md",
-      "summary": "Kinh tế chính trị và toàn cầu hóa",
-      "desc": "Kinh tế, chính trị",
+      "summary": "Kinh tế chính trị và toàn cầu hóa, Phần 1",
+      "desc": "Kinh tế quyết định chính trị hay chính trị quyết định kinh tế là câu hỏi tuy đơn giản, nhưng nó lại là mô hình của thể chế tự do hay độc tài, quyết định quá trình phát triển bền vững hay chỉ nhất thời. Toàn cầu hóa gia tăng tốc độ phát triển của nhiều quốc gia chậm tiến, nhưng sau gần 80 năm, nó mang kết quả ngược lại với lý thuyết. Nó đã không mang lại một thế giới phẳng, an bình, thịnh vượng, tự do cạnh tranh - phát triển kinh tế mà không thay đổi chính trị thì chính trị càng mạnh thêm, càng quyết định đường hướng kinh tế...",
       "date": "10/5/2024",
       "image": "../img/keo.png",
+      "author": "Vy Nguyen",
       "order": 102
     },
     {
       "file": "kinhtechinhtriP2.md",
-      "summary": "Kinh tế chính trị và toàn cầu hóa",
-      "desc": "Kinh tế, chính trị",
+      "summary": "Kinh tế chính trị và toàn cầu hóa - Phần 2: Tích Lũy Nhiều Tiền Để Làm Gì?",
+      "desc": "Mô hình kinh tế nào có tiền lưu thông, thì trước sau tiền cũng sẽ dồn vô một nhóm nhỏ người. Dòng tiền chảy, lưu thông chậm lại hay tắc nghẽn đều làm nền kinh tế lao đao, thậm chí dẫn đến bạo loạn, thay đổi chính trị. Muốn duy trì dòng chảy của đồng tiền, cơ chế vận hành kinh tế phải có cách liên tục bơm tiền ở đầu nguồn. Khi đồng tiền lúc nào cũng dồn vào một nhóm nhỏ nơi cuối nguồn, câu hỏi có vẻ lẩn thẩn là người ta tích lũy nhiều tiền để làm gì?...",
       "date": "10/5/2024",
       "image": "../img/keo.png",
+      "author": "Vy Nguyen",
       "order": 103
     },
     {
       "file": "kinhtechinhtriP3.md",
-      "summary": "Kinh tế chính trị và toàn cầu hóa",
-      "desc": "Kinh tế, chính trị",
+      "summary": "Kinh tế chính trị và toàn cầu hóa, Phần 3: Tích Lũy Nhiều Tiền Để Làm Gì?",
+      "desc": "Trước khi phân tích chừng nào thể chế cho thuê quyền lực bị mất cân bằng tài chính, thị trường tự do lấy kinh tế làm trọng, vẫn luôn đối mặt với vấn đề này. Suy thoái và khủng hoảng kinh tế là chu kỳ thường gặp mỗi khi dòng tiền chảy từ đầu nguồn bị mất cân bằng với lượng tiền mang tích lũy, hoặc đơn giản hơn, ví như bịnh 'tụ máu'. Nhiều lý thuyết kinh tế tìm đủ giải pháp cốt tránh né hay làm nhẹ đi di-hại của bịnh tụ máu này, trong đó lý thuyết của chủ nghĩa Cộng Sản (CS) muốn xóa bỏ nó hoàn toàn...",
       "date": "10/5/2024",
       "image": "../img/keo.png",
+      "author": "Vy Nguyen",
       "order": 104
     },
     {
       "file": "kinhtechinhtriP4.md",
-      "summary": "Kinh tế chính trị và toàn cầu hóa",
-      "desc": "Kinh tế, chính trị",
+      "summary": "Kinh tế chính trị và toàn cầu hóa, Phần 4: Mô Hình Kinh Tế In Tiền của Trung Quốc",
+      "desc": "Trung Quốc là công xưởng thế giới, kiểm soát hầu hết toàn bộ chuỗi cung ứng, ngày càng làm chủ công nghệ lõi giá trị cao, hạ tầng hiện đại quy mô hơn Hoa Kỳ, tại sao lại là mô hình kinh tế in tiền?",
       "date": "10/5/2024",
       "image": "../img/keo.png",
+      "author": "Vy Nguyen",
       "order": 105
     },
     {
       "file": "kinhtechinhtriP5.md",
-      "summary": "Kinh tế chính trị và toàn cầu hóa",
-      "desc": "Kinh tế, chính trị",
+      "summary": "Kinh tế chính trị và toàn cầu hóa, Phần 5: Câu Chuyện Quản Trị, Hồng Hay Chuyên",
+      "desc": "Toàn cầu hóa làm thế giới thêm phẳng, Nhật Bản và Tây Đức cần 10 năm để vực dậy từ đống tro tàn của Thế chiến II; Nam Hàn, Ba Lan cần 30 năm để có nền kinh tế năng động; tương tự, Trung Quốc cần cùng khoản thời gian và thêm 10 năm nữa để trở thành cường quốc kinh tế thứ 2 sau Hoa Kỳ. Ngày nay nếu xét về sản lượng công nghiệp như sắt, thép, Trung Quốc bứt xa mọi quốc gia toàn cầu; kể cả thành phẩm công nghệ phức tạp như xe ôtô, hãng xe Trung Quốc BYD bán số lượng xe vượt xa hãng Tesla của Hoa Kỳ.",
       "date": "10/5/2024",
       "image": "../img/keo.png",
+      "author": "Vy Nguyen",
       "order": 106
     }
   ]
